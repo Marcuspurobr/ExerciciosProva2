@@ -1,7 +1,10 @@
 # ExerciciosProva2
 Exercícios resolvidos (e explicados) da lista para prova de Lógica de Programação
+
 Nesse arquivo estão os meus códigos para cada questão, pode ser que não seja a maneira mais eficiente possível, mas foi minha tentativa, eu atualizei os antigos pois ou não estavam de acordo com o modelo da prova, ou porque tinha alguns errados.
+
 Eu tentei explicar o melhor possível, pode não ter ficado muito claro porque né, é difícil explicar digitando, mas tentei o meu melhor.
+
 Caso alguém de fora do curso queira tentar fazer os exercícios, vou deixar os enunciados aqui:
 1- Leetcode 21
 2- Leetcode 1922
